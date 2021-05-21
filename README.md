@@ -2,10 +2,10 @@
 
 ## Given an integer input, produce output in Roman Numeral format.
 
-### Example
+### Examples
 
-2 => II
-
-5 => V
-
+1  => I
+2  => II
+5  => V
 10 => X
+
